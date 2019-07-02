@@ -1,0 +1,34 @@
+body {
+  background-color: #dfffff;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Shadows Into Light Two', cursive;
+}
+
+h3{
+  font-family: 'Shadows Into Light Two', cursive;
+}
+
+/* h5 {
+  font-size: 20px;
+} */
+
+h6 {
+  font-weight: normal;
+  font-size: 18px;
+}
+
+#button {
+  background-color:#dfffff;
+  border:none;
+  font-size: 18px;
+  font-family: "Shadows Into Light Two", cursive;
+}
+
+#image {
+  background-color:#dfffff;
+  border:none;
+}
